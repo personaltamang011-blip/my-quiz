@@ -1,0 +1,222 @@
+[
+    {
+        "question": "What is Microsoft Excel primarily used for?",
+        "options": ["Word processing", "Spreadsheet calculations", "Presentations", "Email"],
+        "answer": "Spreadsheet calculations"
+    },
+    {
+        "question": "What is the file extension for Excel 2019 and later?",
+        "options": [".xls", ".xlsx", ".xlsm", ".csv"],
+        "answer": ".xlsx"
+    },
+    {
+        "question": "Which function is used to find the sum of a range of cells?",
+        "options": ["SUM()", "AVERAGE()", "COUNT()", "MAX()"],
+        "answer": "SUM()"
+    },
+    {
+        "question": "What does the '$' symbol do in a cell reference?",
+        "options": ["Makes it absolute", "Makes it relative", "Adds currency", "Nothing"],
+        "answer": "Makes it absolute"
+    },
+    {
+        "question": "Which chart type is best for showing trends over time?",
+        "options": ["Pie chart", "Bar chart", "Line chart", "Scatter plot"],
+        "answer": "Line chart"
+    },
+    {
+        "question": "What is a 'worksheet' in Excel?",
+        "options": ["A single cell", "A single row", "A single sheet in a workbook", "The entire workbook"],
+        "answer": "A single sheet in a workbook"
+    },
+    {
+        "question": "Which function counts the number of cells containing numbers?",
+        "options": ["SUM()", "COUNT()", "COUNTA()", "AVERAGE()"],
+        "answer": "COUNT()"
+    },
+    {
+        "question": "What is the shortcut to insert a new row?",
+        "options": ["Ctrl + R", "Ctrl + Shift + +", "Alt + R", "Shift + R"],
+        "answer": "Ctrl + Shift + +"
+    },
+    {
+        "question": "Which tool is used to automatically fill a series?",
+        "options": ["AutoFill", "AutoSum", "AutoFilter", "AutoFormat"],
+        "answer": "AutoFill"
+    },
+    {
+        "question": "What does 'VLOOKUP' do?",
+        "options": ["Looks up values vertically", "Looks up values horizontally", "Validates data", "Visualizes data"],
+        "answer": "Looks up values vertically"
+    },
+    {
+        "question": "Which format is used for dates in Excel?",
+        "options": ["Text", "Number", "Date", "Custom"],
+        "answer": "Date"
+    },
+    {
+        "question": "What is a 'pivot table' used for?",
+        "options": ["Creating charts", "Summarizing data", "Formatting cells", "Sorting data"],
+        "answer": "Summarizing data"
+    },
+    {
+        "question": "Which function returns the current date?",
+        "options": ["NOW()", "TODAY()", "DATE()", "TIME()"],
+        "answer": "TODAY()"
+    },
+    {
+        "question": "What is the maximum number of rows in Excel 2019?",
+        "options": ["65,536", "1,048,576", "16,777,216", "Unlimited"],
+        "answer": "1,048,576"
+    },
+    {
+        "question": "Which operator is used for multiplication in formulas?",
+        "options": ["+", "-", "*", "/"],
+        "answer": "*"
+    },
+    {
+        "question": "What does 'conditional formatting' do?",
+        "options": ["Formats conditions", "Applies formatting based on rules", "Creates conditions", "Deletes formatting"],
+        "answer": "Applies formatting based on rules"
+    },
+    {
+        "question": "Which function finds the largest value in a range?",
+        "options": ["MAX()", "MIN()", "LARGE()", "BIG()"],
+        "answer": "MAX()"
+    },
+    {
+        "question": "What is a 'macro' in Excel?",
+        "options": ["A chart", "A recorded set of actions", "A formula", "A cell"],
+        "answer": "A recorded set of actions"
+    },
+    {
+        "question": "Which tool helps filter data in a table?",
+        "options": ["Sort", "Filter", "Pivot", "Chart"],
+        "answer": "Filter"
+    },
+    {
+        "question": "What is the purpose of 'data validation'?",
+        "options": ["Validates formulas", "Restricts input in cells", "Validates charts", "Validates macros"],
+        "answer": "Restricts input in cells"
+    },
+    {
+        "question": "Which function concatenates text?",
+        "options": ["CONCAT()", "TEXT()", "JOIN()", "MERGE()"],
+        "answer": "CONCAT()"
+    },
+    {
+        "question": "What is 'freeze panes' used for?",
+        "options": ["Freezing cells", "Keeping rows/columns visible while scrolling", "Freezing formulas", "Freezing charts"],
+        "answer": "Keeping rows/columns visible while scrolling"
+    },
+    {
+        "question": "Which chart shows parts of a whole?",
+        "options": ["Line", "Bar", "Pie", "Scatter"],
+        "answer": "Pie"
+    },
+    {
+        "question": "What does 'IF' function do?",
+        "options": ["Adds numbers", "Performs conditional logic", "Counts cells", "Finds averages"],
+        "answer": "Performs conditional logic"
+    },
+    {
+        "question": "Which shortcut selects the entire worksheet?",
+        "options": ["Ctrl + A", "Ctrl + S", "Ctrl + W", "Ctrl + E"],
+        "answer": "Ctrl + A"
+    },
+    {
+        "question": "What is a 'workbook'?",
+        "options": ["A single sheet", "The entire Excel file", "A chart", "A formula"],
+        "answer": "The entire Excel file"
+    },
+    {
+        "question": "Which function rounds a number?",
+        "options": ["ROUND()", "INT()", "FLOOR()", "CEILING()"],
+        "answer": "ROUND()"
+    },
+    {
+        "question": "What is 'AutoSum' used for?",
+        "options": ["Auto summing numbers", "Quickly summing adjacent cells", "Auto creating sums", "Summing automatically"],
+        "answer": "Quickly summing adjacent cells"
+    },
+    {
+        "question": "Which tool creates scenarios for 'what-if' analysis?",
+        "options": ["Goal Seek", "Scenario Manager", "Solver", "Data Table"],
+        "answer": "Scenario Manager"
+    },
+    {
+        "question": "What does 'HLOOKUP' do?",
+        "options": ["Looks up horizontally", "Looks up vertically", "Finds horizontally", "Searches horizontally"],
+        "answer": "Looks up horizontally"
+    },
+    {
+        "question": "Which format makes text bold?",
+        "options": ["Italic", "Underline", "Bold", "Strikethrough"],
+        "answer": "Bold"
+    },
+    {
+        "question": "What is 'cell referencing'?",
+        "options": ["Referencing cells in formulas", "Naming cells", "Coloring cells", "Sizing cells"],
+        "answer": "Referencing cells in formulas"
+    },
+    {
+        "question": "Which function counts non-empty cells?",
+        "options": ["COUNT()", "COUNTA()", "COUNTBLANK()", "COUNTIF()"],
+        "answer": "COUNTA()"
+    },
+    {
+        "question": "What is 'merge cells' used for?",
+        "options": ["Merging data", "Combining cells into one", "Merging sheets", "Merging workbooks"],
+        "answer": "Combining cells into one"
+    },
+    {
+        "question": "Which chart compares categories?",
+        "options": ["Pie", "Line", "Bar", "Area"],
+        "answer": "Bar"
+    },
+    {
+        "question": "What does 'PMT' function calculate?",
+        "options": ["Payment for loan", "Present value", "Future value", "Interest rate"],
+        "answer": "Payment for loan"
+    },
+    {
+        "question": "Which tool helps find and replace data?",
+        "options": ["Find", "Replace", "Search", "Locate"],
+        "answer": "Replace"
+    },
+    {
+        "question": "What is 'conditional formatting' based on?",
+        "options": ["Colors", "Rules", "Fonts", "Sizes"],
+        "answer": "Rules"
+    },
+    {
+        "question": "Which function finds the average?",
+        "options": ["SUM()", "COUNT()", "AVERAGE()", "MAX()"],
+        "answer": "AVERAGE()"
+    },
+    {
+        "question": "What is 'data sorting'?",
+        "options": ["Sorting data alphabetically/numerically", "Filtering data", "Grouping data", "Pivoting data"],
+        "answer": "Sorting data alphabetically/numerically"
+    },
+    {
+        "question": "Which shortcut opens the 'Format Cells' dialog?",
+        "options": ["Ctrl + 1", "Ctrl + F", "Alt + F", "Shift + F"],
+        "answer": "Ctrl + 1"
+    },
+    {
+        "question": "What is 'Excel Online'?",
+        "options": ["Offline version", "Web-based version", "Mobile app", "Desktop app"],
+        "answer": "Web-based version"
+    },
+    {
+        "question": "Which function returns the length of text?",
+        "options": ["LEN()", "TEXT()", "LEFT()", "RIGHT()"],
+        "answer": "LEN()"
+    },
+    {
+        "question": "What does 'subtotal' do?",
+        "options": ["Totals subtotals", "Calculates subtotals in lists", "Substitutes totals", "Divides totals"],
+        "answer": "Calculates subtotals in lists"
+    }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "question": "How do you expect to spend today?",
+    "options": ["In peace", "By wasting"],
+    "answer": "In peace"
+  },
+  {
+    "question": "If so, what should you do today?",
+    "options": ["Anger must be controlled.", "Anger must be allowed to prevail."],
+    "answer": "Anger must be controlled."
+  },
+  {
+    "question": "Possible obstacles?",
+    "options": ["Negative thinking.", "Positive thinking."],
+    "answer": "Negative thinking."
+  }
+]

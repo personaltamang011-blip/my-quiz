@@ -1,0 +1,217 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["London", "Berlin", "Paris", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "answer": "H2O"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+        "answer": "Vatican City"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["Won", "Yen", "Ringgit", "Baht"],
+        "answer": "Yen"
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"],
+        "answer": "George Washington"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Platinum"],
+        "answer": "Diamond"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Edward Jenner"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the square root of 144?",
+        "options": ["10", "12", "14", "16"],
+        "answer": "12"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Onion", "Avocado", "Lime"],
+        "answer": "Avocado"
+    },
+    {
+        "question": "Who is known as the 'Father of Computers'?",
+        "options": ["Alan Turing", "Charles Babbage", "Ada Lovelace", "John von Neumann"],
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "answer": "Canberra"
+    },
+    {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Who painted 'The Starry Night'?",
+        "options": ["Claude Monet", "Vincent van Gogh", "Paul Gauguin", "Georges Seurat"],
+        "answer": "Vincent van Gogh"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "answer": "Au"
+    },
+    {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": ["Emily Brontë", "Charlotte Brontë", "Jane Austen", "Louisa May Alcott"],
+        "answer": "Jane Austen"
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "options": ["Femur", "Stapes", "Tibia", "Humerus"],
+        "answer": "Stapes"
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+        "answer": "Brasília"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": ["Ir", "Fe", "In", "Io"],
+        "answer": "Fe"
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "options": ["Marie Curie", "Rosalind Franklin", "Lise Meitner", "Irène Joliot-Curie"],
+        "answer": "Marie Curie"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "What gas makes up about 78% of Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Who wrote '1984'?",
+        "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Philip K. Dick"],
+        "answer": "George Orwell"
+    },
+    {
+        "question": "What is the highest mountain in the world?",
+        "options": ["K2", "Kangchenjunga", "Lhotse", "Everest"],
+        "answer": "Everest"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "options": ["Si", "Ag", "Au", "Al"],
+        "answer": "Ag"
+    },
+    {
+        "question": "Who painted 'The Last Supper'?",
+        "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Titian"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the capital of India?",
+        "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+        "answer": "Delhi"
+    },
+    {
+        "question": "What is the process by which plants make their own food?",
+        "options": ["Respiration", "Photosynthesis", "Transpiration", "Germination"],
+        "answer": "Photosynthesis"
+    },
+    {
+        "question": "Who was the first man to walk on the moon?",
+        "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "John Glenn"],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara", "Gobi", "Kalahari", "Antarctica"],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "What is the chemical symbol for oxygen?",
+        "options": ["O", "Ox", "O2", "Og"],
+        "answer": "O"
+    },
+    {
+        "question": "Who wrote 'The Great Gatsby'?",
+        "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck", "William Faulkner"],
+        "answer": "F. Scott Fitzgerald"
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "options": ["St. Petersburg", "Moscow", "Kiev", "Minsk"],
+        "answer": "Moscow"
+    },
+    {
+        "question": "What is the study of fossils called?",
+        "options": ["Geology", "Paleontology", "Archaeology", "Anthropology"],
+        "answer": "Paleontology"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": ["Galileo", "Newton", "Einstein", "Copernicus"],
+        "answer": "Newton"
+    },
+    {
+        "question": "What is the chemical symbol for carbon?",
+        "options": ["Ca", "Co", "C", "Cr"],
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "J.D. Salinger", "Mark Twain", "Toni Morrison"],
+        "answer": "Harper Lee"
+    }
+]
